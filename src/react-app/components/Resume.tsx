@@ -26,21 +26,21 @@ export default function Resume() {
     {
       company: "Capsitech IT Services",
       role: "Assistant System Engineer",
-      period: "Jan 2025 - Dec 2025",
+      period: "Jul 2025 - Dec 2025",
       description:
         "Leading development of compliance management platforms using React, TypeScript, and .NET Core. Architecting scalable solutions that serve 100+ users with enhanced performance and reliability.",
     },
     {
       company: "Capsitech IT Services",
       role: "Full Stack Developer Trainee",
-      period: "Aug 2024 - Dec 2024",
+      period: "Jan 2025 - Jun 2025",
       description:
         "Developed intensive web design, Java programming, and DBMS projects. Contributed to building data visualization tools that improved operational efficiency by 20%.",
     },
     {
       company: "PwC-US Launchpad Programme",
       role: "Apprenticeship Trainee",
-      period: "2024",
+      period: "Feb 2024 - Jun 2024",
       description:
         "Worked on real-world business scenarios including data analysis and dashboard creation, applying problem-solving skills to derive insights and support decision-making.",
     },
