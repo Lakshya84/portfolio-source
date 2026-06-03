@@ -11,7 +11,8 @@ import {
   FaUnity,
 } from "react-icons/fa";
 import {
-  SiTailwindcss,
+  // SiTailwindcss,
+  SiExpress,
   SiMongodb,
   SiDotnet,
   SiCplusplus,
@@ -37,20 +38,20 @@ export default function Skills() {
 
   // ✅ Flat skills with icons
   const skills = [
-    { name: "HTML", icon: <FaHtml5 /> },
-    { name: "CSS", icon: <FaCss3Alt /> },
-    { name: "JavaScript", icon: <FaJs /> },
     { name: "React", icon: <FaReact /> },
-    { name: "Tailwind", icon: <SiTailwindcss /> },
-    { name: "Node.js", icon: <FaNodeJs /> },
-    { name: ".NET", icon: <SiDotnet /> },
     { name: "MongoDB", icon: <SiMongodb /> },
-    { name: "MySQL", icon: <DiMysql /> },
-    { name: "Git", icon: <FaGitAlt /> },
-    { name: "Docker", icon: <FaDocker /> },
+    { name: "Node.js", icon: <FaNodeJs /> },
+    { name: "Express.js", icon: <SiExpress /> },
+    { name: "JavaScript", icon: <FaJs /> },
     { name: "C++", icon: <SiCplusplus /> },
     { name: "Java", icon: <FaJava /> },
+    { name: ".NET", icon: <SiDotnet /> },
+    { name: "MySQL", icon: <DiMysql /> },
+    { name: "HTML", icon: <FaHtml5 /> },
+    { name: "CSS", icon: <FaCss3Alt /> },
     { name: "Python", icon: <SiPython /> },
+    { name: "Git", icon: <FaGitAlt /> },
+    { name: "Docker", icon: <FaDocker /> },
     { name: "Unity", icon: <FaUnity /> },
   ];
 
